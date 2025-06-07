@@ -12,10 +12,8 @@
 - 🎓 Pursuing **BS in Data Science and Applications** from IIT Madras  
 - 🧠 Currently learning **Deep Learning, NLP, and Generative AI**
 - 🔭 Actively working on projects involving **Flask**, **Vue.js**, **Streamlit**, and **Whisper**
-- 📝 Check out some of my blogs on [Medium](https://medium.com/@ashish.gaba.dev) *(if available)*
 - 💬 Ask me about **Python, Web Apps, Machine Learning, and GitHub automation**
-- 📫 How to reach me: **ashish.gaba.dev@gmail.com**
-- ⚡ Fun fact: I build side projects to learn and help others learn 😄
+- 📫 How to reach me: **ashish.gaba81@gmail.com**
 
 ---
 
@@ -39,13 +37,23 @@
 
 ### 🧩 Featured Projects
 
-- 🧠 [**Sentiment Prediction (MLP Course)**](https://github.com/Ashish-gaba/Sentiment-Prediction) – Movie reviews sentiment classification using SVM, Logistic Regression
-- 🎭 [**Ticket Show Application**](https://github.com/Ashish-gaba) – Flask app for booking shows & venue management
-- ✍️ [**Blog-Lite**](https://github.com/Ashish-gaba) – Vue + Flask blogging platform with image/text uploads
-- 📈 [**Fleet Maintenance Dashboard**](https://github.com/Ashish-gaba/Fleet-maintenence-analysis-dashboard) – Power BI + SQL project for insights
-- 🧮 [**Tax Calculator 2025**](https://github.com/Ashish-gaba/tax-savings-calculator-2025) – Simple Streamlit app for tax projections
-- 🎙️ [**VAD with Whisper**](https://github.com/Ashish-gaba/VAD_with_Whisper) – Audio chunking + transcription using Whisper
-- 💡 [**GenAI Sandbox**](https://github.com/Ashish-gaba/Gen-AI) – OpenAI, Gemini, FastAPI, Dockerized backend
+- 🎬 [**Movie Recommender System**](https://github.com/Ashish-gaba/Movie-Recommender-System) – A content-based movie recommendation app built with Streamlit and the TMDB API. Suggests similar movies and displays posters.
+
+- 📄 [**Chat with PDF**](https://github.com/Ashish-gaba/Chat-with-PDF) – AI-powered web app to chat with uploaded PDFs using OpenAI, Qdrant, and Next.js.
+
+- 🧠 [**Sentiment Prediction (MLP Course)**](https://github.com/Ashish-gaba/Sentiment-Prediction) – Movie reviews sentiment classification using SVM, Logistic Regression.
+
+- 🎭 [**Ticket Show Application**](https://github.com/Ashish-gaba) – Flask app for booking shows and managing venues.
+
+- ✍️ [**Blog-Lite**](https://github.com/Ashish-gaba) – Vue.js and Flask-based blogging platform with support for text and image posts.
+
+- 📈 [**Fleet Maintenance Dashboard**](https://github.com/Ashish-gaba/Fleet-maintenence-analysis-dashboard) – Power BI and SQL project providing insights into fleet maintenance data.
+
+- 🧮 [**Tax Calculator 2025**](https://github.com/Ashish-gaba/tax-savings-calculator-2025) – Streamlit app for projecting tax savings.
+
+- 🎙️ [**VAD with Whisper**](https://github.com/Ashish-gaba/VAD_with_Whisper) – Audio chunking and transcription using OpenAI's Whisper model.
+
+- 💡 [**GenAI Sandbox**](https://github.com/Ashish-gaba/Gen-AI) – Explorations with OpenAI, Gemini, FastAPI, and Dockerized backend.
 
 ---
 
