@@ -20,8 +20,10 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,vue,js,html,css,bootstrap,postman,sqlite,postgres,fastapi,docker,streamlit,pytorch,sklearn,github,git,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,html,css,tailwind,bootstrap,flask,fastapi,streamlit,sklearn,pytorch,numpy,pandas,matplotlib,huggingface,docker,git,github,linux,postgres,mysql,sqlite,postman,powerbi&perline=10" />
 </p>
+
+
 
 ---
 
