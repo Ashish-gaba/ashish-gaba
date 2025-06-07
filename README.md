@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Gaba</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">I'm a passionate developer with a focus on building practical and impactful applications. My interests span across web development, machine learning, data science, and generative AI. I enjoy transforming ideas into functional solutions that address real-world problems.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashish-gaba&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-gaba" />
@@ -38,21 +38,13 @@
 ### 🧩 Featured Projects
 
 - 🎬 [**Movie Recommender System**](https://github.com/Ashish-gaba/Movie-Recommender-System) – A content-based movie recommendation app built with Streamlit and the TMDB API. Suggests similar movies and displays posters.
-
 - 📄 [**Chat with PDF**](https://github.com/Ashish-gaba/Chat-with-PDF) – AI-powered web app to chat with uploaded PDFs using OpenAI, Qdrant, and Next.js.
-
 - 🧠 [**Sentiment Prediction (MLP Course)**](https://github.com/Ashish-gaba/Sentiment-Prediction) – Movie reviews sentiment classification using SVM, Logistic Regression.
-
 - 🎭 [**Ticket Show Application**](https://github.com/Ashish-gaba) – Flask app for booking shows and managing venues.
-
 - ✍️ [**Blog-Lite**](https://github.com/Ashish-gaba) – Vue.js and Flask-based blogging platform with support for text and image posts.
-
 - 📈 [**Fleet Maintenance Dashboard**](https://github.com/Ashish-gaba/Fleet-maintenence-analysis-dashboard) – Power BI and SQL project providing insights into fleet maintenance data.
-
 - 🧮 [**Tax Calculator 2025**](https://github.com/Ashish-gaba/tax-savings-calculator-2025) – Streamlit app for projecting tax savings.
-
 - 🎙️ [**VAD with Whisper**](https://github.com/Ashish-gaba/VAD_with_Whisper) – Audio chunking and transcription using OpenAI's Whisper model.
-
 - 💡 [**GenAI Sandbox**](https://github.com/Ashish-gaba/Gen-AI) – Explorations with OpenAI, Gemini, FastAPI, and Dockerized backend.
 
 ---
@@ -63,21 +55,4 @@
   <a href="https://www.linkedin.com/in/ashish-gaba/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
   <a href="mailto:ashish.gaba.dev@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
   <!-- Add other platforms if needed -->
-</p>
-
----
-
-### 🧠 Blog Posts
-
-<!-- Replace these with your real posts -->
-- [How I built a Movie Sentiment Analyzer using ML](#)
-- [Deploying ML apps using Streamlit Cloud](#)
-- [Using Whisper for Audio Transcription](#)
-
----
-
-### 📅 Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/ashish-gaba/ashish-gaba/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
