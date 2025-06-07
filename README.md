@@ -30,20 +30,6 @@
   <img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" height="40" />
 </p>
 
-
-
-
-
-
----
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish-gaba&show_icons=true&locale=en" alt="ashish-gaba" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-gaba&" alt="ashish-gaba" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-gaba&layout=compact" alt="ashish-gaba" />
-</p>
-
 ---
 
 ### 🧩 Featured Projects
@@ -57,6 +43,15 @@
 - 🧮 [**Tax Calculator 2025**](https://github.com/Ashish-gaba/tax-savings-calculator-2025) – Streamlit app for projecting tax savings.
 - 🎙️ [**VAD with Whisper**](https://github.com/Ashish-gaba/VAD_with_Whisper) – Audio chunking and transcription using OpenAI's Whisper model.
 - 💡 [**GenAI Sandbox**](https://github.com/Ashish-gaba/Gen-AI) – Explorations with OpenAI, Gemini, FastAPI, and Dockerized backend.
+
+---
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashish-gaba&show_icons=true&locale=en" alt="ashish-gaba" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-gaba&" alt="ashish-gaba" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-gaba&layout=compact" alt="ashish-gaba" />
+</p>
 
 ---
 
