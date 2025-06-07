@@ -7,20 +7,19 @@
 
 ---
 
-### 🚀 About Me
-
-- 🎓 Pursuing **BS in Data Science and Applications** from IIT Madras  
-- 🧠 Currently learning **Deep Learning, NLP, and Generative AI**
-- 🔭 Actively working on projects involving **Flask**, **Vue.js**, **Streamlit**, and **Whisper**
-- 💬 Ask me about **Python, Web Apps, Machine Learning, and GitHub automation**
-- 📫 How to reach me: **ashish.gaba81@gmail.com**
+🚀 About Me
+🎓 Undergraduate student at IIT Madras, pursuing a BS in Data Science and Applications
+🤖 Passionate about Web Development, Machine Learning, Deep Learning, NLP, and building Generative AI applications
+🛠️ Currently learning about LLMs and Generative AI
+💡 I enjoy creating intelligent web apps and exploring the intersection of AI and real-world applications
+📬 Reach me at: ashish.gaba81@gmail.com
 
 ---
 
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,html,css,tailwind,bootstrap,flask,fastapi,streamlit,sklearn,pytorch,numpy,pandas,matplotlib,huggingface,redis,docker,git,github,linux,postgres,mysql,sqlite,postman,powerbi&perline=20" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,html,css,tailwind,bootstrap,flask,fastapi,streamlit,sklearn,pytorch,numpy,pandas,matplotlib,huggingface,redis,docker,git,github,linux,postgres,mysql,sqlite,postman,powerbi&perline=15" />
 </p>
 
 
