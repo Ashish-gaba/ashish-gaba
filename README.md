@@ -47,11 +47,11 @@
 ---
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish-gaba&show_icons=true&locale=en" alt="ashish-gaba" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-gaba&" alt="ashish-gaba" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-gaba&layout=compact" alt="ashish-gaba" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-gaba&show_icons=true&locale=en&layout=compact" alt="ashish-gaba" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish-gaba&show_icons=true&locale=en" alt="ashish-gaba" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-gaba&" alt="ashish-gaba" /></p>
 
 ---
 
