@@ -8,11 +8,11 @@
 ---
 
 🚀 About Me
--🎓 Undergraduate student at IIT Madras, pursuing a BS in Data Science and Applications
--🤖 Passionate about Web Development, Machine Learning, Deep Learning, NLP, and building Generative AI applications
--🛠️ Currently learning about LLMs and Generative AI
--💡 I enjoy creating intelligent web apps and exploring the intersection of AI and real-world applications
--📬 Reach me at: ashish.gaba81@gmail.com
+- 🎓 Undergraduate student at IIT Madras, pursuing a BS in Data Science and Applications
+- 🤖 Passionate about Web Development, Machine Learning, Deep Learning, NLP, and building Generative AI applications
+- 🛠️ Currently learning about LLMs and Generative AI
+- 💡 I enjoy creating intelligent web apps and exploring the intersection of AI and real-world applications
+- 📬 Reach me at: ashish.gaba81@gmail.com
 
 ---
 
