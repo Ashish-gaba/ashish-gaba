@@ -28,13 +28,16 @@
 
 
 ---
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish-gaba&show_icons=true&locale=en" alt="ashish-gaba" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-gaba&" alt="ashish-gaba" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-gaba&layout=compact" alt="ashish-gaba" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-gaba&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashish-gaba&show_icons=true&theme=tokyonight&hide_title=false&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ashish-gaba&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
