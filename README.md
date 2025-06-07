@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ashish Gaba</h1>
-<h3 align="center">I'm a passionate developer with a focus on building practical and impactful applications. My interests span across web development, machine learning, data science, and generative AI. I enjoy transforming ideas into functional solutions that address real-world problems.</h3>
+<h1 align="left">Hi 👋, I'm Ashish Gaba</h1>
+<h3 align="left">I'm a passionate developer with a focus on building practical and impactful applications. My interests span across web development, machine learning, data science, and generative AI. I enjoy transforming ideas into functional solutions that address real-world problems.</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=ashish-gaba&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-gaba" />
 </p>
 
