@@ -20,18 +20,9 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <!-- Popular stacks -->
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,html,css,tailwind,bootstrap" />
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,streamlit,git,github,docker,linux,postman,mysql,sqlite,postgres" />
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,huggingface" />
-
-  <!-- Custom icons for unsupported tools -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Redis_Logo.svg" alt="redis" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Power_BI_Logo.svg" alt="powerbi" height="40" />
-  <img src="https://numpy.org/images/logo.svg" alt="numpy" height="40" />
-  <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" height="40" />
-  <img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,html,css,tailwind,bootstrap,flask,fastapi,streamlit,sklearn,pytorch,numpy,pandas,matplotlib,huggingface,redis,docker,git,github,linux,postgres,mysql,sqlite,postman,powerbi&perline=20" />
 </p>
+
 
 
 
